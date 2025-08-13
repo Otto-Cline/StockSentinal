@@ -36,3 +36,12 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+.env
+
+# Ignore all .class files
+*.class
+
+# Ignore IntelliJ/VSCode settings
+.idea/
+Thumbs.db
