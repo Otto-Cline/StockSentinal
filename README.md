@@ -16,5 +16,5 @@ sentiment, determining the current status of the market.
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/Otto-Cline/StockSentinal.git
-cd StockSentinal
+git clone https://github.com/Otto-Cline/StockSentinel.git
+cd StockSentinel
