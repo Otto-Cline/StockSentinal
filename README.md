@@ -7,8 +7,8 @@ sentiment, determining the current status of the market.
 
 ## Features
 - Scrapes stock-related articles from NewsAPI
-- Calculates sentiment and sentiment score from -1 to 5 for each article.
-- Determines a final market sentiment outlook based on the aggregate scores of each article.
+- Calculates sentiment and sentiment score from -1 to 5 for each article
+- Determines a final market sentiment outlook based on the aggregate scores of each article
 
 ---
 
@@ -17,4 +17,4 @@ sentiment, determining the current status of the market.
 ### 1. Clone this repository
 ```bash
 git clone https://github.com/Otto-Cline/StockSentinal.git
-cd <StockSentinal>
+cd StockSentinal
