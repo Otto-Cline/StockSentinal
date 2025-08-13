@@ -1,4 +1,4 @@
-# Stock Sentinal - A Market Sentiment Analyzer
+# Stock Sentinel - A Market Sentiment Analyzer
 
 A Java-based tool that scrapes the most recent finance articles and provides an analysis of their
 sentiment, determining the current status of the market.
